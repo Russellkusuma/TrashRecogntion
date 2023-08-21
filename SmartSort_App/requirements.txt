@@ -1,0 +1,5 @@
+Flask==2.2.3
+Pillow==9.5.0
+-f https://download.pytorch.org/whl/torch_stable.html # Access cpu only torch lib
+torch==2.0.0+cpu
+torchvision==0.15.0+cpu
