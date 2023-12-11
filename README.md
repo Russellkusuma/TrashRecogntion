@@ -8,4 +8,7 @@ SmartSort_ModelTraining contains my implementation of image classification train
 The dataset used: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 Repository for the smart sort trash firmware is on this repo: https://github.com/emilylondon/SmartSortCapstone
-![image](https://github.com/Russellkusuma/TrashRecogntion/assets/29903759/9197c747-1a9b-4bf0-821f-21804661cc01)
+
+
+![unnamed](https://github.com/Russellkusuma/TrashRecogntion/assets/29903759/cd35e6bf-56e3-42c8-a099-585d9390a5d9)
+![unnamed (1)](https://github.com/Russellkusuma/TrashRecogntion/assets/29903759/1983592e-cc00-4438-9a50-7c7c02710e2e)
