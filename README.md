@@ -7,7 +7,7 @@ SmartSort_App contains my implementation of the trash sorting cloud compute serv
 SmartSort_ModelTraining contains my implementation of image classification training. I experimented with various deep learning architectures and chose the one that gave the best results (ResNet).
 The dataset used: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
-Repository for the smart sort trash firmware is on this repo: https://github.com/emilylondon/SmartSortCapstone
+Repository for the smart sort trash bin firmware is on this repo: https://github.com/emilylondon/SmartSortCapstone
 
 
 ![unnamed](https://github.com/Russellkusuma/TrashRecogntion/assets/29903759/cd35e6bf-56e3-42c8-a099-585d9390a5d9)
